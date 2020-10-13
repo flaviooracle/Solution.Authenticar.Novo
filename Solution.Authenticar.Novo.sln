@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.Authenticar.Novo", "Solution.Authenticar.Novo\Solution.Authenticar.Novo.csproj", "{BCC1BA02-7AAD-4808-99B1-C32F19896B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC1BA02-7AAD-4808-99B1-C32F19896B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC1BA02-7AAD-4808-99B1-C32F19896B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC1BA02-7AAD-4808-99B1-C32F19896B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC1BA02-7AAD-4808-99B1-C32F19896B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D04333-5A08-4A19-B7F3-CB7A371EDD3F}
+	EndGlobalSection
+EndGlobal
